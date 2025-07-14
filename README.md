@@ -1,4 +1,4 @@
-# FormasdeTratamento
+# Formas de Tratamento
 formas de tratamento de exceções em Java utilizando o conceito de interface em Programação Orientada a Objetos (POO)
 # ☕ Tratamento de Exceções em Java com Interface (POO)
 
